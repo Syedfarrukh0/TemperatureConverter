@@ -1,0 +1,119 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\000037}}
+* {
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000313}}
+main {
+  width: auto;
+  height: 100vh;
+  background-image: url(1.jpg);
+  background-size: 100% 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000321}}
+  main section {
+    width: 70%;
+    height: 70%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000328}}
+    main section h1 {
+      color: white;
+      text-align: center;
+      margin-bottom: 1vw;
+      font-size: 3vw;
+      font-weight: 600;
+      font-family: Tahoma, Geneva, Verdana, sans-serif; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000337}}
+    main section .wrap {
+      background-color: rgba(0, 0, 0, 0.432);
+      -webkit-box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.164);
+              box-shadow: 10px 10px 10px rgba(255, 255, 255, 0.164);
+      padding: 1vw;
+      width: 100%;
+      height: 55%;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000347}}
+    main section .celc, main section .hahr {
+      width: 100%;
+      height: auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000353}}
+    main section .equal {
+      width: auto;
+      height: 2.5vw;
+      font-size: 1.3vw;
+      font-weight: bolder;
+      position: relative;
+      top: -1.1vw;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+          -ms-flex-pack: center;
+              justify-content: center;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000363}}
+      main section .equal h1 {
+        color: white;
+        text-align: center;
+        position: relative;
+        top: 0.3vw; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000371}}
+    main section input {
+      outline: none;
+      color: black;
+      width: 32.5vw;
+      height: auto;
+      padding: 1vw;
+      font-size: 1.9vw;
+      text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000381}}
+    main section input:focus {
+      color: navy;
+      font-weight: 700;
+      -webkit-transform: translateY(-0.2vw);
+              transform: translateY(-0.2vw);
+      -webkit-transition: 0.3s ease-in;
+      transition: 0.3s ease-in; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/nadra\/Desktop\/Temperature\%20Converter\/style\.scss}line{font-family:\0000388}}
+    main section label {
+      color: white;
+      display: block;
+      font-size: 2vw;
+      font-weight: 500;
+      font-family: sans-serif !important;
+      margin-left: 0.5vw;
+      margin-top: 0.3vw; }
+
+/*# sourceMappingURL=style.css.map */
